@@ -1,4 +1,4 @@
-🎓 Student Study Pattern vs Exam Performance Analysis
+#🎓 Student Study Pattern vs Exam Performance Analysis
 An end-to-end Data Analytics & Machine Learning project that analyzes how student study habits impact exam performance using Python, Machine Learning, and Power BI. The project demonstrates the complete analytics workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, ML model building, interactive dashboard creation, and actionable insights.
 
 📖 Project Overview
