@@ -120,7 +120,7 @@ Student-Performance-Analysis/
 │     └── Student_Performance.xlsx
 │
 │── Python/
-│     └── tuesday24.ipynb
+│     └── Studentstudypattern_VS_Examperformance_analysis.ipynb
 │
 │── Dashboard/
 │     └── reportstudent.pbix
