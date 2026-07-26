@@ -135,7 +135,7 @@ Clone the Repository
 git clone https://github.com/ThrishaDSullal/Student-Performance-Analysis.git
 
 Install Required Libraries
-pip install pandas numpy matplotlib seaborn scikit-learn
+Install:!pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Steps
 1. Open the Jupyter Notebook.
